@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "dev": "nodemon server.js",
-    "build": "npm i"
+    "build": "npm i --output public"
   },
   "author": "",
   "license": "ISC",
